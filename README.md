@@ -9,30 +9,29 @@
 
 
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Dataset Information
+- The Dataset has 1460 rows, 81 columns
+- The Data Description is provided in data_description.txt file
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - The Optimal Value of Alpha for Ridge regression is 3.51
--- With Training R2 = 0.8955817207861989 And Testing R2 = 0.8533533529371365
+- - With Training R2 = 0.8955817207861989 And Testing R2 = 0.8533533529371365
 - The Optimal Value of Alpha for Ridge regression is 0.91
--- With Training R2 = 0.7744864089923619 And Testing R2 = 0.7620538116080745
+- - With Training R2 = 0.7744864089923619 And Testing R2 = 0.7620538116080745
 
 - Followings are the Important Predictor variable along with their respective Coefficients
--- YearBuilt: 0.001989726925053266 
--- GarageArea: 0.0004429035741300149 
--- GrLivArea: 0.0002706436062495077 
--- TotalBsmtSF: 0.0001945505754640916 
--- WoodDeckSF: 0.00018002207249729084 
--- 2ndFlrSF: 4.6660699044849394e-05 
--- MasVnrArea: 4.6102728234679326e-05 
--- BsmtFinSF1: 3.707307759808199e-05 
--- LotArea: 8.788746769066721e-07
+- - YearBuilt: 0.001989726925053266 
+- - GarageArea: 0.0004429035741300149 
+- - GrLivArea: 0.0002706436062495077 
+- - TotalBsmtSF: 0.0001945505754640916 
+- - WoodDeckSF: 0.00018002207249729084 
+- - 2ndFlrSF: 4.6660699044849394e-05 
+- - MasVnrArea: 4.6102728234679326e-05 
+- - BsmtFinSF1: 3.707307759808199e-05 
+- - LotArea: 8.788746769066721e-07
 
 
 ## Technologies Used

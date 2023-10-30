@@ -19,7 +19,7 @@
 ## Conclusions
 - The Optimal Value of Alpha for Ridge regression is 3.51
 - - With Training R2 = 0.8955817207861989 And Testing R2 = 0.8533533529371365
-- The Optimal Value of Alpha for Ridge regression is 0.91
+- The Optimal Value of Alpha for Lasso regression is 0.91
 - - With Training R2 = 0.7744864089923619 And Testing R2 = 0.7620538116080745
 
 - Followings are the Important Predictor variable along with their respective Coefficients
